@@ -1,0 +1,46 @@
+[
+  {
+    "name": "hypercwd",
+    "description": "Opens new tabs with the same directory as the current tab in Hyper for OS X, Linux, and Windows.",
+    "type": "theme",
+    "preview": "https://raw.githubusercontent.com/hharnisc/hypercwd/master/newTabs.gif",
+    "dateAdded": "1522253281560",
+    "featured": true
+  },
+  {
+    "name": "hyper-search",
+    "description": "Extension for Hyper that allows you to search text in your terminal.",
+    "type": "theme",
+    "preview": "https://media.giphy.com/media/xUA7aXl1VWN460yCju/giphy.gif",
+    "dateAdded": "1522253872987",
+    "featured": true
+  },
+  {
+    "name": "hyper-pane",
+    "description": "Extension for Hyper.app to enhance pane navigation. Navigate through panes with arrows, jump directly to a specific pane with digit, change focus on mouse hover or temporarily maximize a pane.",
+    "type": "theme",
+    "preview": "https://hyper-plugin-screenshots.now.sh/hyper-pane.gif",
+    "dateAdded": "1521644449784",
+    "featured": true
+  },
+  {
+    "name": "hyperpower",
+    "description": "Extension for Hyper that turns on power mode, with bonus wow mode",
+    "type": "theme",
+    "preview": "https://cloud.githubusercontent.com/assets/13041/16820268/13c9bfe6-4905-11e6-8fe4-baf8fc8d9293.gif",
+    "dateAdded": "1521644449784",
+    "featured": true
+  },
+  {
+    "name": "hyper-native",
+    "description": "Make Hyper adapt to the macOS UI",
+    "type": "theme",
+    "preview": "https://i.imgur.com/eeRssvz.png",
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "dateAdded": "1521644449784",
+    "featured": false
+  }
+]
